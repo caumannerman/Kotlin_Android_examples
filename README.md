@@ -2,11 +2,13 @@
 
 1. Spinner Example
 
-<p>
-![1](https://user-images.githubusercontent.com/75043852/148318842-f32eef6e-6156-4409-b92e-6ea8cab0aeac.PNG)
-![2](https://user-images.githubusercontent.com/75043852/148318865-5b385878-961d-481c-986a-34d3f34db984.PNG)
-![3](https://user-images.githubusercontent.com/75043852/148318873-abe1980b-b445-4cda-a777-16f010f886ec.PNG)
-</p>
+
+![123](https://user-images.githubusercontent.com/75043852/148319018-a49437a6-2fb5-4ad7-97fd-160cf254dfef.PNG)
+![234](https://user-images.githubusercontent.com/75043852/148319022-6ca58e10-a4ae-483c-abc1-38c959cfdab7.PNG)
+![345](https://user-images.githubusercontent.com/75043852/148319027-3be7082f-d494-4200-b5c3-16cdccd5f720.PNG)
+
+
+
 
 2. EmailValidation Example
 
