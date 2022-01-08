@@ -46,3 +46,12 @@
 7. ProgressBar Example
 
 <img width="250" alt="스크린샷 2022-01-08 오후 5 40 17" src="https://user-images.githubusercontent.com/75043852/148638022-cff11418-93d6-4af4-bafd-a43e6261ad4a.png">
+
+8. Seekbar Example 
+
+<img width="250" alt="스크린샷 2022-01-09 오전 2 15 06" src="https://user-images.githubusercontent.com/75043852/148653697-f417e7ae-5fdc-4308-8224-ff46d8b2b6fd.png">
+
+9. ratingBar Example
+
+<img width="250" alt="스크린샷 2022-01-09 오전 2 24 22" src="https://user-images.githubusercontent.com/75043852/148653712-140327f1-2d5d-4eb8-9a47-ed0655ba08ef.png">
+
