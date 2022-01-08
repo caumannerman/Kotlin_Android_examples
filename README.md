@@ -42,3 +42,7 @@
 <img width="200" alt="스크린샷 2022-01-08 오후 5 19 19" src="https://user-images.githubusercontent.com/75043852/148637340-e1f7b611-2147-432e-a4a0-d1c5c7f54e91.png">
 <img width="200" alt="스크린샷 2022-01-08 오후 5 19 31" src="https://user-images.githubusercontent.com/75043852/148637342-97b1d663-f070-4623-8d00-c6b54c3c1920.png">
 </p>
+
+7. ProgressBar Example
+
+<img width="250" alt="스크린샷 2022-01-08 오후 5 40 17" src="https://user-images.githubusercontent.com/75043852/148638022-cff11418-93d6-4af4-bafd-a43e6261ad4a.png">
