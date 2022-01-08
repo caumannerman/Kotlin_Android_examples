@@ -21,4 +21,13 @@
 
 3.Marquee Example ( Flow Text )
 
-<img width="396" alt="스크린샷 2022-01-08 오후 2 14 57" src="https://user-images.githubusercontent.com/75043852/148632511-302397df-1154-40b1-9ca6-f5a4648f893c.png">
+<img width="250" alt="스크린샷 2022-01-08 오후 2 14 57" src="https://user-images.githubusercontent.com/75043852/148632511-302397df-1154-40b1-9ca6-f5a4648f893c.png">
+
+4.EditText Example
+
+<img width="250" alt="스크린샷 2022-01-08 오후 2 57 56" src="https://user-images.githubusercontent.com/75043852/148634935-d2690b58-baa9-44ce-b88c-f122cb920463.png">
+
+5. RadioGroup Example
+
+<img width="250" alt="스크린샷 2022-01-08 오후 3 52 42" src="https://user-images.githubusercontent.com/75043852/148634965-46062dc9-8ddf-458d-8225-53199bed23d8.png">
+<img width="250" alt="스크린샷 2022-01-08 오후 3 52 55" src="https://user-images.githubusercontent.com/75043852/148634966-2bb38b11-4111-480e-8679-2150f87071e7.png">
