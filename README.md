@@ -32,3 +32,13 @@
 <img width="250" alt="스크린샷 2022-01-08 오후 3 52 42" src="https://user-images.githubusercontent.com/75043852/148634965-46062dc9-8ddf-458d-8225-53199bed23d8.png">
 <img width="270" alt="스크린샷 2022-01-08 오후 3 52 55" src="https://user-images.githubusercontent.com/75043852/148634966-2bb38b11-4111-480e-8679-2150f87071e7.png">
 </p>
+
+
+6. CheckBox Example
+
+<p>
+  <img width="200" alt="스크린샷 2022-01-08 오후 5 18 35" src="https://user-images.githubusercontent.com/75043852/148637331-5a623536-0705-4094-857e-d23af59de5b5.png">
+  <img width="200" alt="스크린샷 2022-01-08 오후 5 18 48" src="https://user-images.githubusercontent.com/75043852/148637339-d40dc77b-d3c8-4038-89da-b8606bcaddc8.png">
+<img width="200" alt="스크린샷 2022-01-08 오후 5 19 19" src="https://user-images.githubusercontent.com/75043852/148637340-e1f7b611-2147-432e-a4a0-d1c5c7f54e91.png">
+<img width="200" alt="스크린샷 2022-01-08 오후 5 19 31" src="https://user-images.githubusercontent.com/75043852/148637342-97b1d663-f070-4623-8d00-c6b54c3c1920.png">
+</p>
